@@ -7,9 +7,10 @@ This repository contains the complete implementation of **ProtoEEG** and its att
 
 - `ProtoEEG.py`: Baseline few-shot prototypical network
 - `ProtoEEG-QA.py`: Query-aware attention-enhanced model
-- `models/`: Pretrained weights
-- `figures/`: Confusion matrices, t-SNE visualizations
-- `results/`: Metrics for 5-, 10-, 15-shot evaluations
+-  Additional models, figures and results are in https://github.com/Deepak-Mewada/ProtoEEG_additional_Material/
+  - `models/`: Pretrained weights
+  - `figures/`: Confusion matrices, t-SNE visualizations
+  - `results/`: Metrics for 5-, 10-, 15-shot evaluations
 - `README.md`: Reproducibility guide and detailed documentation
 
 ---
